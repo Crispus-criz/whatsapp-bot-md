@@ -4,7 +4,7 @@
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": false {
       "description": "show bot number last seen as online",
       "required": false,
       "value": "false"
@@ -15,7 +15,7 @@
       "value": "false"
     },
     "SUDO": {
-      "description": "admin",
+      "description": "Crispus",
       "required": false,
       "value": ""
     },
